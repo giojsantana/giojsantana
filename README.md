@@ -6,11 +6,11 @@
 - Mostly the hundred years war between france and england
 
 ## Video Games
+- cyberpunk 2077 (My favorite)
 - project zomboid
 - crusader kings
 - valorant
 - the binding of isaac
-- cyberpunk 2077 (My favorite)
 -------------------------------------
 # currently learning 
 - web development (html, css, js)
