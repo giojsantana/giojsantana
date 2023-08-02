@@ -1,10 +1,10 @@
 # Hi, I’m Giovanni!
-
-# Interests 
 -------------------------------------
+# Interests 
+
 ## History 
 - Mostly the hundred years war between france and england
--------------------------------------
+
 ## Video Games
 - project zomboid
 - crusader kings
