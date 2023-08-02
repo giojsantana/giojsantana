@@ -12,9 +12,9 @@
 - valorant
 - the binding of isaac
 -------------------------------------
-# currently learning 
+# Currently Learning 
 - web development (html, css, js)
 - excited to eventually start learning react
 -------------------------------------
-# You can email me at: 
+# You Can Email Me At: 
 - gjsantana2002@gmail.com
